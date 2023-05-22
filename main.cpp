@@ -18,17 +18,15 @@
 #include <string>
 #include <stdlib.h>
 #include <chrono>
+#include <stdio.h>
 #include <thread>
 
 using namespace std;
 
 int main(int argc, const char *argv[]) {
 
-    cout << "Press any key to continue\r";
+    cout << "Press enter to continue\r";
     cin.ignore();
-
-
-    //cout << endl;
-    cout << "\r                                         \r";
+    cout << endl;
     return 0;
 }
