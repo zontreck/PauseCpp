@@ -2,7 +2,7 @@ MOVED
 =====
 ---------
 
-This program has been migrated to [https://git.zontreck.com/AriasCreations/SimpleHelperTools SimpleHelperTools]
+This program has been migrated to [https://git.zontreck.com/AriasCreations/SimpleHelperTools] SimpleHelperTools
 
 Pause
 ======
